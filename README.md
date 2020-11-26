@@ -1,4 +1,4 @@
-# Kira_DICOM-RT-Anonymizer-MG
+# Kira (DICOM-RT-Anonymizer)
 Anonymize DICOM-RT files with ease. UIDs are also anonymized without losing RT connections.
 
 ![Test Image 6](https://github.com/Kiragroh/Kira_DICOM-RT-Anonymizer-MG/blob/main/GUIscreenshot.PNG)
