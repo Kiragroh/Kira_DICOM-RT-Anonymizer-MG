@@ -23,6 +23,6 @@ A future release will include two additional features:
 1.) CyberKnife conversion of RD-files for frequently used TPS (Eclipse and co.).
 2.) Automatic generation of RP-Dummy-Plans.
 
-This additional features will make plan comparison study much easier.
+This additional features will make plan comparison studies much easier.
 
 ![Test Image 6](https://github.com/Kiragroh/Kira_DICOM-RT-Anonymizer-MG/blob/main/Future.PNG)
