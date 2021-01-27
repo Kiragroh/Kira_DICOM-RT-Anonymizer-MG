@@ -26,3 +26,8 @@ A future release will include two additional features:
 This additional features will make plan comparison studies much easier.
 
 ![Test Image 6](https://github.com/Kiragroh/Kira_DICOM-RT-Anonymizer-MG/blob/main/Future.PNG)
+
+Note:
+- script is optimized to work with Eclipse 15.1
+- absolute ESAPI-beginner should first look at my GettingStartedMaterial (collection of many helpful stuff from me or others and even includes a PDF version of some ESAPI-OnlineHelps)
+https://drive.google.com/drive/folders/1-aYUOIfyvAUKtBg9TgEETiz4SYPonDOO
