@@ -16,7 +16,7 @@ I highly recommend it.
 
 Requierements:  
 1.) Windows operating system  
-2.) rund the .exe in the downloaded and then extracted folder  
+2.) run the .exe in the downloaded and then extracted folder  
 3.) have 'Microsoft .NET Framework 4.5' installed. Usually, it is automatically installed on a windows machine. On an internet PC, you will be prompted to install. Otherwise download here: https://www.microsoft.com/de-de/download/details.aspx?id=30653)
 
 A future release will include two additional features:
