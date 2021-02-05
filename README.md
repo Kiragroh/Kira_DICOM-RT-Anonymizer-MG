@@ -1,7 +1,7 @@
 # Kira (DICOM-RT-Anonymizer)
 Anonymize DICOM-RT files with ease. UIDs are also anonymized without losing RT connections.
 
-![Test Image 6](https://github.com/Kiragroh/Kira_DICOM-RT-Anonymizer-MG/blob/main/GUIscreenshot.png)
+![Test Image 6](https://github.com/Kiragroh/Kira_DICOM-RT-Anonymizer-MG/blob/main/GUIscreenshot.PNG)
 
 I build this little tool named Kira because I could not find a sufficient free DICOM-Anonymizer that works great with radiotherapy specific files.
 Most anonymizer have one of the following problems:
